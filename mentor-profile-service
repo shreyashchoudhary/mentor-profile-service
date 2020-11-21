@@ -1,0 +1,4 @@
+spring.data.mongodb.database = MentorDB
+spring.data.mongodb.host = localhost
+spring.data.mongodb/uri = mongodb
+spring.datasource.driver-class-name = mongodb.jdbc.MongoDriver
